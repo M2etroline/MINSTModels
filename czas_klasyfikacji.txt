@@ -1,0 +1,195 @@
+KNN 0.954 This took 0.0009 s
+Centroids 0.809 This took 0.012 s
+Decision Tree 0.8 This took 1.9001 s
+MLP 0.936 This took 19.0302 s
+Gaussian Naive-Bayes 0.801 This took 0.1138 s
+1 / 28
+
+KNN 0.957 This took 0.0008 s
+Centroids 0.81 This took 0.0111 s
+Decision Tree 0.813 This took 2.1103 s
+MLP 0.931 This took 14.5238 s
+Gaussian Naive-Bayes 0.802 This took 0.0878 s
+2 / 28
+
+KNN 0.957 This took 0.0008 s
+Centroids 0.811 This took 0.0102 s
+Decision Tree 0.82 This took 1.9843 s
+MLP 0.933 This took 15.6857 s
+Gaussian Naive-Bayes 0.805 This took 0.0786 s
+3 / 28
+
+KNN 0.957 This took 0.0008 s
+Centroids 0.809 This took 0.0114 s
+Decision Tree 0.817 This took 1.8052 s
+MLP 0.931 This took 7.7033 s
+Gaussian Naive-Bayes 0.804 This took 0.0746 s
+4 / 28
+
+KNN 0.957 This took 0.0008 s
+Centroids 0.81 This took 0.011 s
+Decision Tree 0.816 This took 1.6501 s
+MLP 0.937 This took 15.5448 s
+Gaussian Naive-Bayes 0.803 This took 0.0686 s
+5 / 28
+
+KNN 0.958 This took 0.0008 s
+Centroids 0.81 This took 0.0104 s
+Decision Tree 0.817 This took 1.5254 s
+MLP 0.932 This took 7.2317 s
+Gaussian Naive-Bayes 0.803 This took 0.063 s
+6 / 28
+
+KNN 0.958 This took 0.0008 s
+Centroids 0.81 This took 0.0103 s
+Decision Tree 0.822 This took 1.4026 s
+MLP 0.939 This took 11.0046 s
+Gaussian Naive-Bayes 0.802 This took 0.0579 s
+7 / 28
+
+KNN 0.958 This took 0.0008 s
+Centroids 0.81 This took 0.0105 s
+Decision Tree 0.821 This took 1.3059 s
+MLP 0.94 This took 9.8869 s
+Gaussian Naive-Bayes 0.801 This took 0.0526 s
+8 / 28
+
+KNN 0.958 This took 0.0008 s
+Centroids 0.81 This took 0.0092 s
+Decision Tree 0.812 This took 1.1893 s
+MLP 0.934 This took 8.5274 s
+Gaussian Naive-Bayes 0.803 This took 0.0485 s
+9 / 28
+
+KNN 0.959 This took 0.0008 s
+Centroids 0.81 This took 0.0092 s
+Decision Tree 0.826 This took 1.1062 s
+MLP 0.938 This took 10.0271 s
+Gaussian Naive-Bayes 0.802 This took 0.0434 s
+10 / 28
+
+KNN 0.959 This took 0.0009 s
+Centroids 0.81 This took 0.0091 s
+Decision Tree 0.82 This took 0.9899 s
+MLP 0.941 This took 7.3851 s
+Gaussian Naive-Bayes 0.803 This took 0.0399 s
+11 / 28
+
+KNN 0.96 This took 0.0008 s
+Centroids 0.81 This took 0.0083 s
+Decision Tree 0.822 This took 0.8992 s
+MLP 0.934 This took 6.5498 s
+Gaussian Naive-Bayes 0.801 This took 0.035 s
+12 / 28
+
+KNN 0.96 This took 0.0008 s
+Centroids 0.81 This took 0.0083 s
+Decision Tree 0.83 This took 0.8225 s
+MLP 0.935 This took 6.0741 s
+Gaussian Naive-Bayes 0.802 This took 0.033 s
+13 / 28
+
+KNN 0.96 This took 0.0008 s
+Centroids 0.81 This took 0.0076 s
+Decision Tree 0.825 This took 0.7318 s
+MLP 0.939 This took 5.0905 s
+Gaussian Naive-Bayes 0.801 This took 0.0283 s
+14 / 28
+
+KNN 0.961 This took 0.0009 s
+Centroids 0.81 This took 0.0077 s
+Decision Tree 0.827 This took 0.6641 s
+MLP 0.94 This took 4.9702 s
+Gaussian Naive-Bayes 0.799 This took 0.0247 s
+15 / 28
+
+KNN 0.962 This took 0.0009 s
+Centroids 0.809 This took 0.0071 s
+Decision Tree 0.825 This took 0.5683 s
+MLP 0.933 This took 5.3162 s
+Gaussian Naive-Bayes 0.8 This took 0.0215 s
+16 / 28
+
+KNN 0.962 This took 0.001 s
+Centroids 0.809 This took 0.0069 s
+Decision Tree 0.825 This took 0.4963 s
+MLP 0.937 This took 5.2286 s
+Gaussian Naive-Bayes 0.801 This took 0.0181 s
+17 / 28
+
+KNN 0.961 This took 0.0008 s
+Centroids 0.806 This took 0.0066 s
+Decision Tree 0.833 This took 0.4251 s
+MLP 0.939 This took 4.6778 s
+Gaussian Naive-Bayes 0.792 This took 0.0132 s
+18 / 28
+
+KNN 0.961 This took 0.0008 s
+Centroids 0.806 This took 0.007 s
+Decision Tree 0.835 This took 0.3556 s
+MLP 0.937 This took 4.753 s
+Gaussian Naive-Bayes 0.792 This took 0.011 s
+19 / 28
+
+KNN 0.959 This took 0.0008 s
+Centroids 0.807 This took 0.0062 s
+Decision Tree 0.815 This took 0.3093 s
+MLP 0.937 This took 4.2376 s
+Gaussian Naive-Bayes 0.792 This took 0.0093 s
+20 / 28
+
+KNN 0.954 This took 0.0008 s
+Centroids 0.788 This took 0.006 s
+Decision Tree 0.819 This took 0.2503 s
+MLP 0.929 This took 5.9076 s
+Gaussian Naive-Bayes 0.768 This took 0.0077 s
+21 / 28
+
+KNN 0.946 This took 0.0009 s
+Centroids 0.791 This took 0.006 s
+Decision Tree 0.813 This took 0.2046 s
+MLP 0.935 This took 6.7346 s
+Gaussian Naive-Bayes 0.768 This took 0.006 s
+22 / 28
+
+KNN 0.927 This took 0.0008 s
+Centroids 0.735 This took 0.0059 s
+Decision Tree 0.786 This took 0.1596 s
+MLP 0.922 This took 10.4978 s
+Gaussian Naive-Bayes 0.716 This took 0.0053 s
+23 / 28
+
+KNN 0.904 This took 0.0009 s
+Centroids 0.72 This took 0.0055 s
+Decision Tree 0.761 This took 0.12 s
+MLP 0.91 This took 15.5814 s
+Gaussian Naive-Bayes 0.703 This took 0.0042 s
+24 / 28
+
+KNN 0.843 This took 0.0008 s
+Centroids 0.65 This took 0.0058 s
+Decision Tree 0.706 This took 0.0878 s
+MLP 0.877 This took 16.1655 s
+Gaussian Naive-Bayes 0.591 This took 0.0037 s
+25 / 28
+
+KNN 0.718 This took 0.0008 s
+Centroids 0.518 This took 0.0055 s
+Decision Tree 0.607 This took 0.0513 s
+MLP 0.786 This took 9.8446 s
+Gaussian Naive-Bayes 0.464 This took 0.0029 s
+26 / 28
+
+KNN 0.256 This took 0.0008 s
+Centroids 0.252 This took 0.0055 s
+Decision Tree 0.331 This took 0.0196 s
+MLP 0.411 This took 3.7351 s
+Gaussian Naive-Bayes 0.27 This took 0.0026 s
+27 / 28
+
+KNN 0.099 This took 0.0009 s
+Centroids 0.099 This took 0.0054 s
+Decision Tree 0.211 This took 0.0028 s
+MLP 0.222 This took 1.33 s
+Gaussian Naive-Bayes 0.217 This took 0.0015 s
+28 / 28
