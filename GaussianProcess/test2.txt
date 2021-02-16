@@ -1,0 +1,14 @@
+
+
+0.395 (+/-0.606) for {'kernel': 1**2 * RationalQuadratic(alpha=1, length_scale=1), 'max_iter_predict': 50, 'multi_class': 'one_vs_rest', 'optimizer': 'fmin_l_bfgs_b', 'warm_start': True}
+0.395 (+/-0.606) for {'kernel': 1**2 * RationalQuadratic(alpha=1, length_scale=1), 'max_iter_predict': 100, 'multi_class': 'one_vs_rest', 'optimizer': 'fmin_l_bfgs_b', 'warm_start': True}
+0.490 (+/-0.776) for {'kernel': 1**2 * RationalQuadratic(alpha=1, length_scale=1), 'max_iter_predict': 10, 'multi_class': 'one_vs_rest', 'optimizer': 'fmin_l_bfgs_b', 'warm_start': True}
+0.684 (+/-0.012) for {'kernel': 1**2 * RationalQuadratic(alpha=1, length_scale=1), 'max_iter_predict': 10, 'multi_class': 'one_vs_one', 'optimizer': 'fmin_l_bfgs_b', 'warm_start': True}
+0.684 (+/-0.012) for {'kernel': 1**2 * RationalQuadratic(alpha=1, length_scale=1), 'max_iter_predict': 50, 'multi_class': 'one_vs_one', 'optimizer': 'fmin_l_bfgs_b', 'warm_start': True}
+0.684 (+/-0.012) for {'kernel': 1**2 * RationalQuadratic(alpha=1, length_scale=1), 'max_iter_predict': 100, 'multi_class': 'one_vs_one', 'optimizer': 'fmin_l_bfgs_b', 'warm_start': True}
+0.749 (+/-0.082) for {'kernel': 1**2 * RationalQuadratic(alpha=1, length_scale=1), 'max_iter_predict': 10, 'multi_class': 'one_vs_rest', 'optimizer': 'fmin_l_bfgs_b', 'warm_start': False}
+0.750 (+/-0.092) for {'kernel': 1**2 * RationalQuadratic(alpha=1, length_scale=1), 'max_iter_predict': 10, 'multi_class': 'one_vs_one', 'optimizer': 'fmin_l_bfgs_b', 'warm_start': False}
+0.751 (+/-0.094) for {'kernel': 1**2 * RationalQuadratic(alpha=1, length_scale=1), 'max_iter_predict': 50, 'multi_class': 'one_vs_one', 'optimizer': 'fmin_l_bfgs_b', 'warm_start': False}
+0.751 (+/-0.094) for {'kernel': 1**2 * RationalQuadratic(alpha=1, length_scale=1), 'max_iter_predict': 100, 'multi_class': 'one_vs_one', 'optimizer': 'fmin_l_bfgs_b', 'warm_start': False}
+0.898 (+/-0.012) for {'kernel': 1**2 * RationalQuadratic(alpha=1, length_scale=1), 'max_iter_predict': 50, 'multi_class': 'one_vs_rest', 'optimizer': 'fmin_l_bfgs_b', 'warm_start': False}
+0.898 (+/-0.012) for {'kernel': 1**2 * RationalQuadratic(alpha=1, length_scale=1), 'max_iter_predict': 100, 'multi_class': 'one_vs_rest', 'optimizer': 'fmin_l_bfgs_b', 'warm_start': False}

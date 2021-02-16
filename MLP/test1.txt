@@ -1,0 +1,360 @@
+0.070 (+/-0.080) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 50), 'learning_rate': 'invscaling', 'solver': 'sgd'}
+0.080 (+/-0.049) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 50), 'learning_rate': 'constant', 'solver': 'sgd'}
+0.080 (+/-0.049) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 50), 'learning_rate': 'adaptive', 'solver': 'sgd'}
+0.080 (+/-0.049) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 100), 'learning_rate': 'constant', 'solver': 'sgd'}
+0.080 (+/-0.049) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 100), 'learning_rate': 'adaptive', 'solver': 'sgd'}
+0.080 (+/-0.049) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 50, 50), 'learning_rate': 'constant', 'solver': 'sgd'}
+0.080 (+/-0.049) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 50, 50), 'learning_rate': 'adaptive', 'solver': 'sgd'}
+0.080 (+/-0.049) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 100, 100), 'learning_rate': 'constant', 'solver': 'sgd'}
+0.080 (+/-0.049) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 100, 100), 'learning_rate': 'adaptive', 'solver': 'sgd'}
+0.080 (+/-0.049) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 50), 'learning_rate': 'constant', 'solver': 'sgd'}
+0.080 (+/-0.049) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 50), 'learning_rate': 'adaptive', 'solver': 'sgd'}
+0.080 (+/-0.049) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 100), 'learning_rate': 'constant', 'solver': 'sgd'}
+0.080 (+/-0.049) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 100), 'learning_rate': 'adaptive', 'solver': 'sgd'}
+0.080 (+/-0.049) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 50, 100), 'learning_rate': 'constant', 'solver': 'sgd'}
+0.080 (+/-0.049) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 50, 100), 'learning_rate': 'adaptive', 'solver': 'sgd'}
+0.080 (+/-0.049) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 100, 50), 'learning_rate': 'constant', 'solver': 'sgd'}
+0.080 (+/-0.049) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 100, 50), 'learning_rate': 'adaptive', 'solver': 'sgd'}
+0.080 (+/-0.049) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 50, 50), 'learning_rate': 'invscaling', 'solver': 'sgd'}
+0.080 (+/-0.136) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 50), 'learning_rate': 'invscaling', 'solver': 'sgd'}
+0.090 (+/-0.040) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 100, 50), 'learning_rate': 'invscaling', 'solver': 'sgd'}
+0.090 (+/-0.133) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 50, 50), 'learning_rate': 'invscaling', 'solver': 'sgd'}
+0.090 (+/-0.075) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 50), 'learning_rate': 'invscaling', 'solver': 'sgd'}
+0.090 (+/-0.040) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 50), 'learning_rate': 'invscaling', 'solver': 'sgd'}
+0.100 (+/-0.063) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 100), 'learning_rate': 'invscaling', 'solver': 'sgd'}
+0.100 (+/-0.000) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 100, 100), 'learning_rate': 'invscaling', 'solver': 'sgd'}
+0.100 (+/-0.089) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 100), 'learning_rate': 'invscaling', 'solver': 'sgd'}
+0.100 (+/-0.000) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 50, 100), 'learning_rate': 'constant', 'solver': 'sgd'}
+0.100 (+/-0.063) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 50, 100), 'learning_rate': 'invscaling', 'solver': 'sgd'}
+0.110 (+/-0.040) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 50, 50), 'learning_rate': 'constant', 'solver': 'sgd'}
+0.110 (+/-0.040) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 50, 50), 'learning_rate': 'adaptive', 'solver': 'sgd'}
+0.110 (+/-0.040) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 100, 100), 'learning_rate': 'constant', 'solver': 'sgd'}
+0.110 (+/-0.040) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 100, 100), 'learning_rate': 'adaptive', 'solver': 'sgd'}
+0.110 (+/-0.040) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 50, 100), 'learning_rate': 'adaptive', 'solver': 'sgd'}
+0.110 (+/-0.040) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 100, 50), 'learning_rate': 'constant', 'solver': 'sgd'}
+0.110 (+/-0.040) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 100, 50), 'learning_rate': 'adaptive', 'solver': 'sgd'}
+0.110 (+/-0.075) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 100), 'learning_rate': 'invscaling', 'solver': 'sgd'}
+0.110 (+/-0.075) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 100, 100), 'learning_rate': 'invscaling', 'solver': 'sgd'}
+0.110 (+/-0.098) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 50), 'learning_rate': 'constant', 'solver': 'sgd'}
+0.110 (+/-0.183) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 100), 'learning_rate': 'invscaling', 'solver': 'sgd'}
+0.110 (+/-0.133) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 50, 100), 'learning_rate': 'invscaling', 'solver': 'sgd'}
+0.120 (+/-0.136) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (100,), 'learning_rate': 'constant', 'solver': 'sgd'}
+0.120 (+/-0.102) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (50,), 'learning_rate': 'invscaling', 'solver': 'sgd'}
+0.120 (+/-0.049) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (50,), 'learning_rate': 'constant', 'solver': 'sgd'}
+0.130 (+/-0.080) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (50,), 'learning_rate': 'invscaling', 'solver': 'sgd'}
+0.130 (+/-0.080) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 100), 'learning_rate': 'constant', 'solver': 'sgd'}
+0.130 (+/-0.080) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 100, 50), 'learning_rate': 'invscaling', 'solver': 'sgd'}
+0.150 (+/-0.141) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (100,), 'learning_rate': 'invscaling', 'solver': 'sgd'}
+0.150 (+/-0.063) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (100,), 'learning_rate': 'invscaling', 'solver': 'sgd'}
+0.170 (+/-0.136) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 100), 'learning_rate': 'constant', 'solver': 'sgd'}
+0.170 (+/-0.120) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 50), 'learning_rate': 'constant', 'solver': 'sgd'}
+0.170 (+/-0.080) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 50), 'learning_rate': 'adaptive', 'solver': 'sgd'}
+0.170 (+/-0.102) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 100), 'learning_rate': 'adaptive', 'solver': 'sgd'}
+0.200 (+/-0.063) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 50), 'learning_rate': 'adaptive', 'solver': 'sgd'}
+0.230 (+/-0.120) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 100), 'learning_rate': 'adaptive', 'solver': 'sgd'}
+0.230 (+/-0.102) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (50,), 'learning_rate': 'adaptive', 'solver': 'sgd'}
+0.280 (+/-0.432) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 50, 100), 'learning_rate': 'constant', 'solver': 'sgd'}
+0.290 (+/-0.387) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 50), 'learning_rate': 'adaptive', 'solver': 'sgd'}
+0.300 (+/-0.341) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 50, 100), 'learning_rate': 'adaptive', 'solver': 'sgd'}
+0.310 (+/-0.232) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 100, 100), 'learning_rate': 'constant', 'solver': 'lbfgs'}
+0.310 (+/-0.293) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 100), 'learning_rate': 'constant', 'solver': 'sgd'}
+0.350 (+/-0.228) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 50), 'learning_rate': 'constant', 'solver': 'sgd'}
+0.350 (+/-0.063) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 50, 50), 'learning_rate': 'adaptive', 'solver': 'sgd'}
+0.360 (+/-0.248) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 100), 'learning_rate': 'constant', 'solver': 'lbfgs'}
+0.370 (+/-0.080) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 50), 'learning_rate': 'adaptive', 'solver': 'sgd'}
+0.380 (+/-0.301) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 50), 'learning_rate': 'invscaling', 'solver': 'sgd'}
+0.380 (+/-0.162) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 50, 100), 'learning_rate': 'constant', 'solver': 'lbfgs'}
+0.390 (+/-0.264) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (50,), 'learning_rate': 'constant', 'solver': 'sgd'}
+0.390 (+/-0.160) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 50), 'learning_rate': 'invscaling', 'solver': 'adam'}
+0.390 (+/-0.160) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 100), 'learning_rate': 'adaptive', 'solver': 'sgd'}
+0.390 (+/-0.117) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 50), 'learning_rate': 'adaptive', 'solver': 'lbfgs'}
+0.400 (+/-0.190) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (50,), 'learning_rate': 'adaptive', 'solver': 'sgd'}
+0.400 (+/-0.179) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 50, 50), 'learning_rate': 'invscaling', 'solver': 'adam'}
+0.400 (+/-0.000) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 100, 50), 'learning_rate': 'constant', 'solver': 'adam'}
+0.410 (+/-0.133) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 100, 50), 'learning_rate': 'invscaling', 'solver': 'lbfgs'}
+0.410 (+/-0.264) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 100), 'learning_rate': 'constant', 'solver': 'sgd'}
+0.410 (+/-0.160) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 100), 'learning_rate': 'adaptive', 'solver': 'sgd'}
+0.410 (+/-0.117) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 100, 50), 'learning_rate': 'invscaling', 'solver': 'adam'}
+0.410 (+/-0.160) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 100, 50), 'learning_rate': 'adaptive', 'solver': 'adam'}
+0.420 (+/-0.136) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 100), 'learning_rate': 'invscaling', 'solver': 'adam'}
+0.420 (+/-0.102) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 100), 'learning_rate': 'adaptive', 'solver': 'lbfgs'}
+0.420 (+/-0.185) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 50, 50), 'learning_rate': 'invscaling', 'solver': 'lbfgs'}
+0.420 (+/-0.150) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 50, 50), 'learning_rate': 'adaptive', 'solver': 'adam'}
+0.420 (+/-0.174) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 100, 100), 'learning_rate': 'adaptive', 'solver': 'lbfgs'}
+0.420 (+/-0.150) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 50), 'learning_rate': 'invscaling', 'solver': 'lbfgs'}
+0.420 (+/-0.162) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 100), 'learning_rate': 'adaptive', 'solver': 'adam'}
+0.430 (+/-0.120) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 50, 50), 'learning_rate': 'constant', 'solver': 'sgd'}
+0.430 (+/-0.174) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 50, 50), 'learning_rate': 'constant', 'solver': 'lbfgs'}
+0.430 (+/-0.185) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 50, 50), 'learning_rate': 'adaptive', 'solver': 'lbfgs'}
+0.430 (+/-0.080) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 100, 100), 'learning_rate': 'constant', 'solver': 'adam'}
+0.430 (+/-0.162) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 50, 100), 'learning_rate': 'invscaling', 'solver': 'lbfgs'}
+0.430 (+/-0.102) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 50, 100), 'learning_rate': 'adaptive', 'solver': 'lbfgs'}
+0.430 (+/-0.185) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 100), 'learning_rate': 'adaptive', 'solver': 'lbfgs'}
+0.430 (+/-0.162) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 50), 'learning_rate': 'invscaling', 'solver': 'lbfgs'}
+0.430 (+/-0.162) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 100, 50), 'learning_rate': 'adaptive', 'solver': 'lbfgs'}
+0.440 (+/-0.098) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 100), 'learning_rate': 'constant', 'solver': 'sgd'}
+0.440 (+/-0.240) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 50, 100), 'learning_rate': 'adaptive', 'solver': 'lbfgs'}
+0.440 (+/-0.194) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 100), 'learning_rate': 'invscaling', 'solver': 'lbfgs'}
+0.440 (+/-0.160) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 50, 50), 'learning_rate': 'constant', 'solver': 'adam'}
+0.440 (+/-0.204) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 50, 50), 'learning_rate': 'invscaling', 'solver': 'sgd'}
+0.440 (+/-0.147) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 50), 'learning_rate': 'constant', 'solver': 'lbfgs'}
+0.450 (+/-0.200) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (50,), 'learning_rate': 'constant', 'solver': 'sgd'}
+0.450 (+/-0.219) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 50), 'learning_rate': 'constant', 'solver': 'sgd'}
+0.450 (+/-0.141) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 50), 'learning_rate': 'adaptive', 'solver': 'sgd'}
+0.450 (+/-0.190) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 50), 'learning_rate': 'adaptive', 'solver': 'adam'}
+0.450 (+/-0.303) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 100, 50), 'learning_rate': 'constant', 'solver': 'lbfgs'}
+0.450 (+/-0.110) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 50, 100), 'learning_rate': 'adaptive', 'solver': 'adam'}
+0.460 (+/-0.264) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 50, 100), 'learning_rate': 'constant', 'solver': 'lbfgs'}
+0.460 (+/-0.240) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (100,), 'learning_rate': 'constant', 'solver': 'sgd'}
+0.460 (+/-0.214) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (50,), 'learning_rate': 'constant', 'solver': 'lbfgs'}
+0.460 (+/-0.331) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (50,), 'learning_rate': 'invscaling', 'solver': 'lbfgs'}
+0.460 (+/-0.147) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (100,), 'learning_rate': 'invscaling', 'solver': 'lbfgs'}
+0.460 (+/-0.075) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 100), 'learning_rate': 'constant', 'solver': 'lbfgs'}
+0.460 (+/-0.040) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 100, 50), 'learning_rate': 'constant', 'solver': 'sgd'}
+0.460 (+/-0.232) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 100, 50), 'learning_rate': 'invscaling', 'solver': 'sgd'}
+0.460 (+/-0.214) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 100, 100), 'learning_rate': 'invscaling', 'solver': 'lbfgs'}
+0.470 (+/-0.136) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (50,), 'learning_rate': 'adaptive', 'solver': 'sgd'}
+0.470 (+/-0.174) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 100, 50), 'learning_rate': 'invscaling', 'solver': 'lbfgs'}
+0.470 (+/-0.150) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (50,), 'learning_rate': 'constant', 'solver': 'sgd'}
+0.470 (+/-0.215) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 100, 50), 'learning_rate': 'adaptive', 'solver': 'lbfgs'}
+0.470 (+/-0.273) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 50, 50), 'learning_rate': 'adaptive', 'solver': 'sgd'}
+0.470 (+/-0.174) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (100,), 'learning_rate': 'adaptive', 'solver': 'lbfgs'}
+0.470 (+/-0.326) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 50, 50), 'learning_rate': 'constant', 'solver': 'sgd'}
+0.470 (+/-0.206) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 50, 100), 'learning_rate': 'constant', 'solver': 'adam'}
+0.480 (+/-0.150) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 100, 100), 'learning_rate': 'invscaling', 'solver': 'lbfgs'}
+0.480 (+/-0.206) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 50, 50), 'learning_rate': 'invscaling', 'solver': 'lbfgs'}
+0.480 (+/-0.265) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 50), 'learning_rate': 'adaptive', 'solver': 'sgd'}
+0.480 (+/-0.102) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 100, 50), 'learning_rate': 'adaptive', 'solver': 'sgd'}
+0.480 (+/-0.120) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 100), 'learning_rate': 'adaptive', 'solver': 'lbfgs'}
+0.480 (+/-0.102) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 50), 'learning_rate': 'invscaling', 'solver': 'lbfgs'}
+0.480 (+/-0.102) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 50, 100), 'learning_rate': 'constant', 'solver': 'sgd'}
+0.480 (+/-0.233) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 100, 50), 'learning_rate': 'adaptive', 'solver': 'sgd'}
+0.490 (+/-0.214) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (50,), 'learning_rate': 'constant', 'solver': 'lbfgs'}
+0.490 (+/-0.293) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 100, 50), 'learning_rate': 'adaptive', 'solver': 'lbfgs'}
+0.490 (+/-0.040) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (50,), 'learning_rate': 'adaptive', 'solver': 'lbfgs'}
+0.490 (+/-0.194) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (100,), 'learning_rate': 'constant', 'solver': 'sgd'}
+0.490 (+/-0.256) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 50), 'learning_rate': 'invscaling', 'solver': 'lbfgs'}
+0.490 (+/-0.204) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (100,), 'learning_rate': 'adaptive', 'solver': 'sgd'}
+0.490 (+/-0.240) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 100), 'learning_rate': 'adaptive', 'solver': 'sgd'}
+0.490 (+/-0.172) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (50,), 'learning_rate': 'adaptive', 'solver': 'lbfgs'}
+0.490 (+/-0.147) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (50,), 'learning_rate': 'adaptive', 'solver': 'adam'}
+0.490 (+/-0.264) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 50), 'learning_rate': 'adaptive', 'solver': 'lbfgs'}
+0.490 (+/-0.354) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 100), 'learning_rate': 'invscaling', 'solver': 'sgd'}
+0.500 (+/-0.141) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 100, 100), 'learning_rate': 'adaptive', 'solver': 'lbfgs'}
+0.500 (+/-0.190) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 100, 50), 'learning_rate': 'invscaling', 'solver': 'lbfgs'}
+0.500 (+/-0.245) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 50), 'learning_rate': 'constant', 'solver': 'sgd'}
+0.500 (+/-0.303) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 50), 'learning_rate': 'invscaling', 'solver': 'lbfgs'}
+0.500 (+/-0.210) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 100, 50), 'learning_rate': 'constant', 'solver': 'sgd'}
+0.500 (+/-0.219) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (100,), 'learning_rate': 'constant', 'solver': 'sgd'}
+0.500 (+/-0.141) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (100,), 'learning_rate': 'adaptive', 'solver': 'adam'}
+0.500 (+/-0.434) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 50), 'learning_rate': 'constant', 'solver': 'lbfgs'}
+0.500 (+/-0.200) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 50), 'learning_rate': 'invscaling', 'solver': 'sgd'}
+0.510 (+/-0.232) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (50,), 'learning_rate': 'adaptive', 'solver': 'lbfgs'}
+0.510 (+/-0.214) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (50,), 'learning_rate': 'invscaling', 'solver': 'lbfgs'}
+0.510 (+/-0.160) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 50, 50), 'learning_rate': 'constant', 'solver': 'adam'}
+0.510 (+/-0.223) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 100, 50), 'learning_rate': 'constant', 'solver': 'lbfgs'}
+0.510 (+/-0.214) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 50), 'learning_rate': 'constant', 'solver': 'lbfgs'}
+0.510 (+/-0.214) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 50), 'learning_rate': 'adaptive', 'solver': 'lbfgs'}
+0.510 (+/-0.172) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 50, 100), 'learning_rate': 'adaptive', 'solver': 'sgd'}
+0.510 (+/-0.117) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 100, 50), 'learning_rate': 'adaptive', 'solver': 'lbfgs'}
+0.510 (+/-0.133) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 50), 'learning_rate': 'adaptive', 'solver': 'adam'}
+0.510 (+/-0.232) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 100, 100), 'learning_rate': 'constant', 'solver': 'sgd'}
+0.520 (+/-0.080) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 50, 50), 'learning_rate': 'constant', 'solver': 'lbfgs'}
+0.520 (+/-0.102) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 100, 100), 'learning_rate': 'adaptive', 'solver': 'sgd'}
+0.520 (+/-0.185) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (50,), 'learning_rate': 'invscaling', 'solver': 'adam'}
+0.520 (+/-0.258) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 50), 'learning_rate': 'adaptive', 'solver': 'lbfgs'}
+0.520 (+/-0.242) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 50, 100), 'learning_rate': 'invscaling', 'solver': 'lbfgs'}
+0.520 (+/-0.102) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 50, 100), 'learning_rate': 'adaptive', 'solver': 'lbfgs'}
+0.520 (+/-0.162) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 50), 'learning_rate': 'invscaling', 'solver': 'adam'}
+0.520 (+/-0.102) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 50, 50), 'learning_rate': 'constant', 'solver': 'lbfgs'}
+0.520 (+/-0.206) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 100), 'learning_rate': 'constant', 'solver': 'lbfgs'}
+0.520 (+/-0.150) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 100), 'learning_rate': 'constant', 'solver': 'adam'}
+0.520 (+/-0.102) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 100, 100), 'learning_rate': 'adaptive', 'solver': 'adam'}
+0.520 (+/-0.206) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 100), 'learning_rate': 'constant', 'solver': 'adam'}
+0.520 (+/-0.174) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 50, 100), 'learning_rate': 'invscaling', 'solver': 'sgd'}
+0.520 (+/-0.233) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 50, 100), 'learning_rate': 'invscaling', 'solver': 'adam'}
+0.520 (+/-0.102) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 100, 100), 'learning_rate': 'invscaling', 'solver': 'sgd'}
+0.530 (+/-0.185) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 100), 'learning_rate': 'invscaling', 'solver': 'adam'}
+0.530 (+/-0.102) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 100, 100), 'learning_rate': 'invscaling', 'solver': 'lbfgs'}
+0.530 (+/-0.150) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 100, 100), 'learning_rate': 'adaptive', 'solver': 'lbfgs'}
+0.530 (+/-0.136) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (50,), 'learning_rate': 'constant', 'solver': 'lbfgs'}
+0.530 (+/-0.150) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (50,), 'learning_rate': 'constant', 'solver': 'adam'}
+0.530 (+/-0.196) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (50,), 'learning_rate': 'invscaling', 'solver': 'adam'}
+0.530 (+/-0.120) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 50), 'learning_rate': 'adaptive', 'solver': 'adam'}
+0.530 (+/-0.185) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 50, 50), 'learning_rate': 'adaptive', 'solver': 'adam'}
+0.530 (+/-0.136) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (100,), 'learning_rate': 'adaptive', 'solver': 'sgd'}
+0.530 (+/-0.136) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 100), 'learning_rate': 'invscaling', 'solver': 'lbfgs'}
+0.540 (+/-0.194) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 50, 50), 'learning_rate': 'adaptive', 'solver': 'lbfgs'}
+0.540 (+/-0.160) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (50,), 'learning_rate': 'constant', 'solver': 'lbfgs'}
+0.540 (+/-0.223) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (50,), 'learning_rate': 'adaptive', 'solver': 'sgd'}
+0.540 (+/-0.160) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 100), 'learning_rate': 'invscaling', 'solver': 'adam'}
+0.540 (+/-0.232) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 50, 100), 'learning_rate': 'constant', 'solver': 'lbfgs'}
+0.540 (+/-0.223) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 50, 50), 'learning_rate': 'invscaling', 'solver': 'adam'}
+0.540 (+/-0.133) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 50, 100), 'learning_rate': 'invscaling', 'solver': 'lbfgs'}
+0.540 (+/-0.117) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 100, 50), 'learning_rate': 'invscaling', 'solver': 'adam'}
+0.540 (+/-0.098) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (50,), 'learning_rate': 'adaptive', 'solver': 'lbfgs'}
+0.540 (+/-0.160) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 100, 100), 'learning_rate': 'constant', 'solver': 'sgd'}
+0.540 (+/-0.147) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 100, 50), 'learning_rate': 'adaptive', 'solver': 'adam'}
+0.540 (+/-0.160) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (100,), 'learning_rate': 'constant', 'solver': 'lbfgs'}
+0.540 (+/-0.147) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 100), 'learning_rate': 'adaptive', 'solver': 'adam'}
+0.540 (+/-0.133) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 50), 'learning_rate': 'constant', 'solver': 'adam'}
+0.540 (+/-0.147) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 100), 'learning_rate': 'adaptive', 'solver': 'lbfgs'}
+0.550 (+/-0.245) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (100,), 'learning_rate': 'invscaling', 'solver': 'lbfgs'}
+0.550 (+/-0.219) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (100,), 'learning_rate': 'adaptive', 'solver': 'sgd'}
+0.550 (+/-0.283) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 50), 'learning_rate': 'adaptive', 'solver': 'lbfgs'}
+0.550 (+/-0.126) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (50,), 'learning_rate': 'adaptive', 'solver': 'adam'}
+0.550 (+/-0.268) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (100,), 'learning_rate': 'adaptive', 'solver': 'lbfgs'}
+0.550 (+/-0.219) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 100), 'learning_rate': 'constant', 'solver': 'sgd'}
+0.550 (+/-0.126) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 50, 50), 'learning_rate': 'adaptive', 'solver': 'lbfgs'}
+0.550 (+/-0.141) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 100, 100), 'learning_rate': 'adaptive', 'solver': 'adam'}
+0.550 (+/-0.155) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 100), 'learning_rate': 'invscaling', 'solver': 'sgd'}
+0.550 (+/-0.167) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 100, 100), 'learning_rate': 'adaptive', 'solver': 'sgd'}
+0.560 (+/-0.248) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 50), 'learning_rate': 'constant', 'solver': 'lbfgs'}
+0.560 (+/-0.117) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 50, 50), 'learning_rate': 'invscaling', 'solver': 'lbfgs'}
+0.560 (+/-0.279) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (100,), 'learning_rate': 'constant', 'solver': 'lbfgs'}
+0.560 (+/-0.147) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (100,), 'learning_rate': 'invscaling', 'solver': 'adam'}
+0.560 (+/-0.279) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 50), 'learning_rate': 'constant', 'solver': 'sgd'}
+0.560 (+/-0.117) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 50), 'learning_rate': 'invscaling', 'solver': 'adam'}
+0.560 (+/-0.172) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 50), 'learning_rate': 'adaptive', 'solver': 'adam'}
+0.560 (+/-0.117) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 50), 'learning_rate': 'adaptive', 'solver': 'lbfgs'}
+0.560 (+/-0.098) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (50,), 'learning_rate': 'constant', 'solver': 'adam'}
+0.570 (+/-0.287) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (100,), 'learning_rate': 'adaptive', 'solver': 'sgd'}
+0.570 (+/-0.150) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 50, 50), 'learning_rate': 'adaptive', 'solver': 'lbfgs'}
+0.570 (+/-0.215) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 100), 'learning_rate': 'invscaling', 'solver': 'lbfgs'}
+0.570 (+/-0.215) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 100), 'learning_rate': 'adaptive', 'solver': 'sgd'}
+0.570 (+/-0.162) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 100), 'learning_rate': 'invscaling', 'solver': 'adam'}
+0.570 (+/-0.185) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 50, 100), 'learning_rate': 'adaptive', 'solver': 'lbfgs'}
+0.570 (+/-0.102) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 100, 50), 'learning_rate': 'invscaling', 'solver': 'adam'}
+0.570 (+/-0.080) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 50, 50), 'learning_rate': 'constant', 'solver': 'lbfgs'}
+0.570 (+/-0.242) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 100, 50), 'learning_rate': 'constant', 'solver': 'adam'}
+0.570 (+/-0.185) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (100,), 'learning_rate': 'invscaling', 'solver': 'lbfgs'}
+0.570 (+/-0.080) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 100), 'learning_rate': 'adaptive', 'solver': 'lbfgs'}
+0.570 (+/-0.120) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 50, 50), 'learning_rate': 'invscaling', 'solver': 'adam'}
+0.570 (+/-0.206) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 100, 100), 'learning_rate': 'adaptive', 'solver': 'lbfgs'}
+0.570 (+/-0.287) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (50,), 'learning_rate': 'invscaling', 'solver': 'sgd'}
+0.580 (+/-0.242) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (50,), 'learning_rate': 'invscaling', 'solver': 'lbfgs'}
+0.580 (+/-0.196) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 100), 'learning_rate': 'invscaling', 'solver': 'lbfgs'}
+0.580 (+/-0.242) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 100, 100), 'learning_rate': 'constant', 'solver': 'lbfgs'}
+0.580 (+/-0.174) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 100, 50), 'learning_rate': 'invscaling', 'solver': 'lbfgs'}
+0.580 (+/-0.102) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 100), 'learning_rate': 'invscaling', 'solver': 'lbfgs'}
+0.580 (+/-0.102) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 100), 'learning_rate': 'constant', 'solver': 'adam'}
+0.580 (+/-0.196) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 100, 50), 'learning_rate': 'invscaling', 'solver': 'adam'}
+0.580 (+/-0.314) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 50), 'learning_rate': 'constant', 'solver': 'lbfgs'}
+0.580 (+/-0.196) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 50, 100), 'learning_rate': 'constant', 'solver': 'adam'}
+0.580 (+/-0.258) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (50,), 'learning_rate': 'invscaling', 'solver': 'lbfgs'}
+0.580 (+/-0.185) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 100), 'learning_rate': 'invscaling', 'solver': 'lbfgs'}
+0.590 (+/-0.133) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 50), 'learning_rate': 'invscaling', 'solver': 'lbfgs'}
+0.590 (+/-0.256) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 50), 'learning_rate': 'invscaling', 'solver': 'lbfgs'}
+0.590 (+/-0.204) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 100, 100), 'learning_rate': 'invscaling', 'solver': 'adam'}
+0.590 (+/-0.407) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 50), 'learning_rate': 'invscaling', 'solver': 'sgd'}
+0.590 (+/-0.133) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 50, 50), 'learning_rate': 'constant', 'solver': 'adam'}
+0.590 (+/-0.183) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 100, 50), 'learning_rate': 'constant', 'solver': 'lbfgs'}
+0.590 (+/-0.264) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 100, 50), 'learning_rate': 'invscaling', 'solver': 'sgd'}
+0.590 (+/-0.172) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 50), 'learning_rate': 'invscaling', 'solver': 'adam'}
+0.590 (+/-0.194) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 50), 'learning_rate': 'invscaling', 'solver': 'lbfgs'}
+0.590 (+/-0.299) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 50, 50), 'learning_rate': 'constant', 'solver': 'adam'}
+0.590 (+/-0.204) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (100,), 'learning_rate': 'invscaling', 'solver': 'sgd'}
+0.590 (+/-0.172) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 50), 'learning_rate': 'constant', 'solver': 'adam'}
+0.600 (+/-0.141) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 100), 'learning_rate': 'constant', 'solver': 'lbfgs'}
+0.600 (+/-0.141) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 100, 50), 'learning_rate': 'constant', 'solver': 'lbfgs'}
+0.600 (+/-0.245) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (100,), 'learning_rate': 'constant', 'solver': 'lbfgs'}
+0.600 (+/-0.358) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 100), 'learning_rate': 'constant', 'solver': 'adam'}
+0.600 (+/-0.167) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 100), 'learning_rate': 'adaptive', 'solver': 'adam'}
+0.600 (+/-0.110) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 100, 50), 'learning_rate': 'adaptive', 'solver': 'adam'}
+0.600 (+/-0.390) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 50, 50), 'learning_rate': 'adaptive', 'solver': 'adam'}
+0.600 (+/-0.283) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 100, 50), 'learning_rate': 'adaptive', 'solver': 'adam'}
+0.600 (+/-0.141) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 50), 'learning_rate': 'constant', 'solver': 'adam'}
+0.600 (+/-0.200) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 100, 100), 'learning_rate': 'constant', 'solver': 'adam'}
+0.600 (+/-0.210) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 100), 'learning_rate': 'invscaling', 'solver': 'lbfgs'}
+0.600 (+/-0.219) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 100), 'learning_rate': 'adaptive', 'solver': 'adam'}
+0.600 (+/-0.110) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 50, 100), 'learning_rate': 'invscaling', 'solver': 'adam'}
+0.600 (+/-0.110) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 100, 50), 'learning_rate': 'constant', 'solver': 'adam'}
+0.600 (+/-0.210) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 100, 100), 'learning_rate': 'constant', 'solver': 'lbfgs'}
+0.610 (+/-0.306) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (50,), 'learning_rate': 'invscaling', 'solver': 'adam'}
+0.610 (+/-0.172) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 100), 'learning_rate': 'constant', 'solver': 'adam'}
+0.610 (+/-0.214) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 100), 'learning_rate': 'invscaling', 'solver': 'sgd'}
+0.610 (+/-0.194) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 100), 'learning_rate': 'adaptive', 'solver': 'lbfgs'}
+0.610 (+/-0.214) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 100), 'learning_rate': 'constant', 'solver': 'adam'}
+0.610 (+/-0.232) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 100, 100), 'learning_rate': 'invscaling', 'solver': 'lbfgs'}
+0.610 (+/-0.075) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (100,), 'learning_rate': 'adaptive', 'solver': 'lbfgs'}
+0.610 (+/-0.160) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 100), 'learning_rate': 'constant', 'solver': 'lbfgs'}
+0.610 (+/-0.117) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 50, 50), 'learning_rate': 'invscaling', 'solver': 'adam'}
+0.620 (+/-0.102) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 100, 100), 'learning_rate': 'invscaling', 'solver': 'adam'}
+0.620 (+/-0.233) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 50), 'learning_rate': 'adaptive', 'solver': 'adam'}
+0.620 (+/-0.120) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (100,), 'learning_rate': 'invscaling', 'solver': 'adam'}
+0.620 (+/-0.102) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 50), 'learning_rate': 'adaptive', 'solver': 'lbfgs'}
+0.620 (+/-0.136) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 50, 50), 'learning_rate': 'invscaling', 'solver': 'lbfgs'}
+0.620 (+/-0.174) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 50, 50), 'learning_rate': 'invscaling', 'solver': 'sgd'}
+0.620 (+/-0.326) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 50), 'learning_rate': 'invscaling', 'solver': 'sgd'}
+0.620 (+/-0.196) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (100,), 'learning_rate': 'invscaling', 'solver': 'lbfgs'}
+0.620 (+/-0.102) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 100), 'learning_rate': 'constant', 'solver': 'lbfgs'}
+0.620 (+/-0.206) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 50, 100), 'learning_rate': 'invscaling', 'solver': 'lbfgs'}
+0.630 (+/-0.301) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (100,), 'learning_rate': 'constant', 'solver': 'adam'}
+0.630 (+/-0.206) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (100,), 'learning_rate': 'invscaling', 'solver': 'adam'}
+0.630 (+/-0.185) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 50, 100), 'learning_rate': 'invscaling', 'solver': 'adam'}
+0.630 (+/-0.162) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 100, 50), 'learning_rate': 'constant', 'solver': 'adam'}
+0.630 (+/-0.049) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 100), 'learning_rate': 'constant', 'solver': 'lbfgs'}
+0.630 (+/-0.049) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 100), 'learning_rate': 'invscaling', 'solver': 'lbfgs'}
+0.630 (+/-0.224) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 50, 100), 'learning_rate': 'invscaling', 'solver': 'adam'}
+0.630 (+/-0.049) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 100, 100), 'learning_rate': 'constant', 'solver': 'lbfgs'}
+0.630 (+/-0.102) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 50), 'learning_rate': 'constant', 'solver': 'lbfgs'}
+0.630 (+/-0.162) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 50), 'learning_rate': 'constant', 'solver': 'adam'}
+0.630 (+/-0.136) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 50), 'learning_rate': 'constant', 'solver': 'lbfgs'}
+0.630 (+/-0.174) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 100, 100), 'learning_rate': 'constant', 'solver': 'adam'}
+0.630 (+/-0.185) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 50, 100), 'learning_rate': 'constant', 'solver': 'adam'}
+0.630 (+/-0.174) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 100), 'learning_rate': 'adaptive', 'solver': 'lbfgs'}
+0.630 (+/-0.185) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (100,), 'learning_rate': 'adaptive', 'solver': 'adam'}
+0.630 (+/-0.233) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 50), 'learning_rate': 'adaptive', 'solver': 'lbfgs'}
+0.640 (+/-0.172) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 50), 'learning_rate': 'constant', 'solver': 'lbfgs'}
+0.640 (+/-0.117) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 100), 'learning_rate': 'invscaling', 'solver': 'sgd'}
+0.640 (+/-0.147) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 100, 100), 'learning_rate': 'adaptive', 'solver': 'adam'}
+0.640 (+/-0.147) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 50, 100), 'learning_rate': 'adaptive', 'solver': 'adam'}
+0.640 (+/-0.172) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 100), 'learning_rate': 'constant', 'solver': 'lbfgs'}
+0.640 (+/-0.075) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 50, 100), 'learning_rate': 'adaptive', 'solver': 'adam'}
+0.650 (+/-0.141) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (50,), 'learning_rate': 'constant', 'solver': 'adam'}
+0.650 (+/-0.228) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (50,), 'learning_rate': 'adaptive', 'solver': 'adam'}
+0.650 (+/-0.155) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (100,), 'learning_rate': 'adaptive', 'solver': 'adam'}
+0.650 (+/-0.210) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 100), 'learning_rate': 'invscaling', 'solver': 'adam'}
+0.650 (+/-0.179) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 50), 'learning_rate': 'constant', 'solver': 'adam'}
+0.650 (+/-0.335) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 100), 'learning_rate': 'adaptive', 'solver': 'adam'}
+0.650 (+/-0.210) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (50,), 'learning_rate': 'adaptive', 'solver': 'adam'}
+0.650 (+/-0.210) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (100,), 'learning_rate': 'constant', 'solver': 'adam'}
+0.650 (+/-0.190) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 50), 'learning_rate': 'adaptive', 'solver': 'adam'}
+0.660 (+/-0.133) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 50), 'learning_rate': 'invscaling', 'solver': 'adam'}
+0.660 (+/-0.214) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 50, 50), 'learning_rate': 'adaptive', 'solver': 'adam'}
+0.660 (+/-0.194) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 50, 100), 'learning_rate': 'invscaling', 'solver': 'sgd'}
+0.660 (+/-0.248) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 100, 100), 'learning_rate': 'adaptive', 'solver': 'adam'}
+0.660 (+/-0.172) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 50), 'learning_rate': 'constant', 'solver': 'adam'}
+0.660 (+/-0.256) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 50, 100), 'learning_rate': 'constant', 'solver': 'lbfgs'}
+0.670 (+/-0.196) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (50,), 'learning_rate': 'invscaling', 'solver': 'adam'}
+0.670 (+/-0.049) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 50, 100), 'learning_rate': 'constant', 'solver': 'adam'}
+0.670 (+/-0.162) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 50), 'learning_rate': 'invscaling', 'solver': 'adam'}
+0.670 (+/-0.206) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 50, 100), 'learning_rate': 'adaptive', 'solver': 'adam'}
+0.680 (+/-0.174) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (100,), 'learning_rate': 'constant', 'solver': 'lbfgs'}
+0.680 (+/-0.150) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (100,), 'learning_rate': 'adaptive', 'solver': 'lbfgs'}
+0.680 (+/-0.196) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 100, 100), 'learning_rate': 'constant', 'solver': 'adam'}
+0.680 (+/-0.162) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 50), 'learning_rate': 'constant', 'solver': 'adam'}
+0.680 (+/-0.162) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 100), 'learning_rate': 'invscaling', 'solver': 'adam'}
+0.690 (+/-0.040) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 50), 'learning_rate': 'adaptive', 'solver': 'adam'}
+0.690 (+/-0.147) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (100,), 'learning_rate': 'invscaling', 'solver': 'sgd'}
+0.690 (+/-0.117) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 100, 100), 'learning_rate': 'invscaling', 'solver': 'sgd'}
+0.690 (+/-0.183) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 50), 'learning_rate': 'constant', 'solver': 'adam'}
+0.690 (+/-0.147) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 50), 'learning_rate': 'invscaling', 'solver': 'adam'}
+0.690 (+/-0.256) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 100), 'learning_rate': 'adaptive', 'solver': 'lbfgs'}
+0.690 (+/-0.214) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 100, 100), 'learning_rate': 'invscaling', 'solver': 'adam'}
+0.690 (+/-0.264) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 50), 'learning_rate': 'invscaling', 'solver': 'adam'}
+0.690 (+/-0.160) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 50), 'learning_rate': 'adaptive', 'solver': 'adam'}
+0.690 (+/-0.160) for {'activation': 'relu', 'alpha': 0.0001, 'hidden_layer_sizes': (100,), 'learning_rate': 'constant', 'solver': 'adam'}
+0.700 (+/-0.110) for {'activation': 'identity', 'alpha': 0.0001, 'hidden_layer_sizes': (50,), 'learning_rate': 'invscaling', 'solver': 'sgd'}
+0.700 (+/-0.167) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (50,), 'learning_rate': 'constant', 'solver': 'adam'}
+0.700 (+/-0.167) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (100,), 'learning_rate': 'adaptive', 'solver': 'adam'}
+0.700 (+/-0.190) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 100), 'learning_rate': 'invscaling', 'solver': 'adam'}
+0.710 (+/-0.133) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (100,), 'learning_rate': 'invscaling', 'solver': 'adam'}
+0.710 (+/-0.183) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 100), 'learning_rate': 'constant', 'solver': 'adam'}
+0.710 (+/-0.040) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 100, 100), 'learning_rate': 'invscaling', 'solver': 'adam'}
+0.710 (+/-0.204) for {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 100), 'learning_rate': 'adaptive', 'solver': 'adam'}
+0.720 (+/-0.273) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (100,), 'learning_rate': 'constant', 'solver': 'adam'}
+0.730 (+/-0.150) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 100), 'learning_rate': 'constant', 'solver': 'adam'}
+0.730 (+/-0.258) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 100), 'learning_rate': 'adaptive', 'solver': 'adam'}
+0.740 (+/-0.133) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 100), 'learning_rate': 'adaptive', 'solver': 'adam'}
+0.770 (+/-0.150) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 100), 'learning_rate': 'invscaling', 'solver': 'adam'}

@@ -1,0 +1,8 @@
+0.101 (+/-0.002) for {'kernel': 1**2 * RBF(length_scale=1), 'multi_class': 'one_vs_rest', 'n_restarts_optimizer': 0, 'optimizer': 'fmin_l_bfgs_b'}
+0.101 (+/-0.002) for {'kernel': 1**2 * Matern(length_scale=1, nu=1.5), 'multi_class': 'one_vs_rest', 'n_restarts_optimizer': 0, 'optimizer': 'fmin_l_bfgs_b'}
+0.101 (+/-0.002) for {'kernel': 1**2 * WhiteKernel(noise_level=1), 'multi_class': 'one_vs_rest', 'n_restarts_optimizer': 0, 'optimizer': 'fmin_l_bfgs_b'}
+0.105 (+/-0.002) for {'kernel': 1**2 * RBF(length_scale=1), 'multi_class': 'one_vs_one', 'n_restarts_optimizer': 0, 'optimizer': 'fmin_l_bfgs_b'}
+0.105 (+/-0.002) for {'kernel': 1**2 * WhiteKernel(noise_level=1), 'multi_class': 'one_vs_one', 'n_restarts_optimizer': 0, 'optimizer': 'fmin_l_bfgs_b'}
+0.751 (+/-0.094) for {'kernel': 1**2 * RationalQuadratic(alpha=1, length_scale=1), 'multi_class': 'one_vs_one', 'n_restarts_optimizer': 0, 'optimizer': 'fmin_l_bfgs_b'}
+0.872 (+/-0.004) for {'kernel': 1**2 * Matern(length_scale=1, nu=1.5), 'multi_class': 'one_vs_one', 'n_restarts_optimizer': 0, 'optimizer': 'fmin_l_bfgs_b'}
+0.898 (+/-0.012) for {'kernel': 1**2 * RationalQuadratic(alpha=1, length_scale=1), 'multi_class': 'one_vs_rest', 'n_restarts_optimizer': 0, 'optimizer': 'fmin_l_bfgs_b'}

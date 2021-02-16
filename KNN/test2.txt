@@ -1,0 +1,10 @@
+0.706 (+/-0.040) for {'algorithm': 'brute', 'metric': 'hamming', 'n_jobs': 4, 'weights': 'uniform'}
+0.719 (+/-0.032) for {'algorithm': 'brute', 'metric': 'hamming', 'n_jobs': 4, 'weights': 'distance'}
+0.936 (+/-0.009) for {'algorithm': 'brute', 'metric': 'manhattan', 'n_jobs': 4, 'weights': 'uniform'}
+0.940 (+/-0.011) for {'algorithm': 'brute', 'metric': 'manhattan', 'n_jobs': 4, 'weights': 'distance'}
+0.945 (+/-0.008) for {'algorithm': 'brute', 'metric': 'euclidean', 'n_jobs': 4, 'weights': 'uniform'}
+0.945 (+/-0.008) for {'algorithm': 'brute', 'metric': 'minkowski', 'n_jobs': 4, 'weights': 'uniform'}
+0.949 (+/-0.011) for {'algorithm': 'brute', 'metric': 'euclidean', 'n_jobs': 4, 'weights': 'distance'}
+0.949 (+/-0.011) for {'algorithm': 'brute', 'metric': 'minkowski', 'n_jobs': 4, 'weights': 'distance'}
+0.954 (+/-0.011) for {'algorithm': 'brute', 'metric': 'cosine', 'n_jobs': 4, 'weights': 'uniform'}
+0.957 (+/-0.010) for {'algorithm': 'brute', 'metric': 'cosine', 'n_jobs': 4, 'weights': 'distance'}

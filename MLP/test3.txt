@@ -1,0 +1,30 @@
+0.861 (+/-0.046) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 100, 50), 'learning_rate': 'constant', 'solver': 'adam'}
+0.864 (+/-0.030) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 50, 50), 'learning_rate': 'invscaling', 'solver': 'adam'}
+0.866 (+/-0.041) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 100, 50), 'learning_rate': 'invscaling', 'solver': 'adam'}
+0.868 (+/-0.049) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 50, 50), 'learning_rate': 'constant', 'solver': 'adam'}
+0.872 (+/-0.051) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 100, 50), 'learning_rate': 'adaptive', 'solver': 'adam'}
+0.877 (+/-0.049) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 50, 50), 'learning_rate': 'adaptive', 'solver': 'adam'}
+0.883 (+/-0.063) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 50), 'learning_rate': 'invscaling', 'solver': 'adam'}
+0.886 (+/-0.062) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 50, 100), 'learning_rate': 'constant', 'solver': 'adam'}
+0.887 (+/-0.038) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 50), 'learning_rate': 'constant', 'solver': 'adam'}
+0.887 (+/-0.030) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 100, 100), 'learning_rate': 'constant', 'solver': 'adam'}
+0.888 (+/-0.037) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 100), 'learning_rate': 'adaptive', 'solver': 'adam'}
+0.889 (+/-0.054) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 100), 'learning_rate': 'constant', 'solver': 'adam'}
+0.889 (+/-0.049) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 50), 'learning_rate': 'adaptive', 'solver': 'adam'}
+0.889 (+/-0.051) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 100, 100), 'learning_rate': 'invscaling', 'solver': 'adam'}
+0.889 (+/-0.046) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 100), 'learning_rate': 'invscaling', 'solver': 'adam'}
+0.891 (+/-0.048) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (50,), 'learning_rate': 'constant', 'solver': 'adam'}
+0.891 (+/-0.037) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 50, 100), 'learning_rate': 'invscaling', 'solver': 'adam'}
+0.892 (+/-0.051) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (50,), 'learning_rate': 'invscaling', 'solver': 'adam'}
+0.893 (+/-0.036) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (50,), 'learning_rate': 'adaptive', 'solver': 'adam'}
+0.893 (+/-0.047) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 50, 100), 'learning_rate': 'adaptive', 'solver': 'adam'}
+0.897 (+/-0.039) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (100,), 'learning_rate': 'invscaling', 'solver': 'adam'}
+0.899 (+/-0.041) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 100), 'learning_rate': 'adaptive', 'solver': 'adam'}
+0.899 (+/-0.028) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 100, 100), 'learning_rate': 'adaptive', 'solver': 'adam'}
+0.901 (+/-0.042) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (100,), 'learning_rate': 'adaptive', 'solver': 'adam'}
+0.902 (+/-0.040) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (100,), 'learning_rate': 'constant', 'solver': 'adam'}
+0.902 (+/-0.051) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 100), 'learning_rate': 'constant', 'solver': 'adam'}
+0.903 (+/-0.060) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 100), 'learning_rate': 'invscaling', 'solver': 'adam'}
+0.903 (+/-0.042) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 50), 'learning_rate': 'adaptive', 'solver': 'adam'}
+0.905 (+/-0.041) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 50), 'learning_rate': 'constant', 'solver': 'adam'}
+0.905 (+/-0.038) for {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (100, 50), 'learning_rate': 'invscaling', 'solver': 'adam'}
